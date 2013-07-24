@@ -19,5 +19,8 @@ class ClassName(object):
 		self.arg = arg
 
 
+	def function11(self):
+		pass
+
 	def function(self):
 		pass

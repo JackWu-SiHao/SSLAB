@@ -15,9 +15,6 @@ class MainHandler(object):
 		super(MainHandler, self).__init__()
 		self.arg = arg
 
-	def functionIO(self):
-		pass
-
 	def function():
 		pass
 
