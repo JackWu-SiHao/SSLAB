@@ -20,3 +20,4 @@ class MainHandler(object):
 
 	def functools():
 		pass
+
