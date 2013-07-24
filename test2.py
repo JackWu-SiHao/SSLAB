@@ -17,7 +17,3 @@ class MainHandler(object):
 
 	def function():
 		pass
-
-	def functools():
-		pass
-

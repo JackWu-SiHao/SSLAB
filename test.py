@@ -3,6 +3,8 @@ class MyClassHandler(object):
 	def __init__(self, arg):
 		super(MyClassHandler, self).__init__()
 		self.arg = arg
+	def function():
+		pass
 
 print "Hello World"
 print "test branch conflict"
