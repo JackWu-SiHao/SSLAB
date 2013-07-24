@@ -18,9 +18,10 @@ class MainHandler(object):
 	def functionIO(self):
 		pass
 
-	def function():
-		pass
-
 	def functools():
 		pass
+
+	def function():
+		b = "Jack"
+		a = "Heaa"
 

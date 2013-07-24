@@ -23,4 +23,5 @@ class ClassName(object):
 		pass
 
 	def function(self):
+		a = 1
 		pass
