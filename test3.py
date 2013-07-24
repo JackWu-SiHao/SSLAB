@@ -15,13 +15,9 @@ class MainHandler(object):
 		super(MainHandler, self).__init__()
 		self.arg = arg
 
-	def functionIO(self):
+	def function():
 		pass
 
 	def functools():
 		pass
-
-	def function():
-		b = "Jack"
-		a = "Heaa"
 
